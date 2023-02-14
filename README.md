@@ -52,4 +52,4 @@ Component. Class and Function Components can be used interchangeably in a React
 application.
 
 [http://localhost:3000]: http://localhost:3000
-[useRef]: https://reactjs.org/docs/hooks-reference.html#useref
+[useRef]: https://reactjs.org/docs/hooks-reference.html#useref# Refactoring-Widgets
